@@ -1,0 +1,29 @@
+{
+  "name": "wheather-node-ts-mongo",
+  "version": "1.0.0",
+  "description": "wheather api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodolfomno/weather-forecast-node-TS-mongo-TDD.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "api",
+    "wheather"
+  ],
+  "author": "Rodolfo Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodolfomno/weather-forecast-node-TS-mongo-TDD/issues"
+  },
+  "homepage": "https://github.com/Rodolfomno/weather-forecast-node-TS-mongo-TDD#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
